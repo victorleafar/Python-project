@@ -5,7 +5,7 @@ Bem-vindo ao Jogo da Forca em Python! Este é um jogo simples onde você pode te
 ## Como Jogar
 
 1. Clone este repositório:
-   git clone https://github.com/victorleafar/jogo-da-forca.git
+   git clone https://github.com/victorleafar/Python-project.git
 
 2. Navegue até o diretório do projeto:
   cd jogo-da-forca
